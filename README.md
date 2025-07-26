@@ -1,5 +1,9 @@
 # Prediksi Penghasilan Individu: Analisis Klasifikasi Dataset Adult Income
 
+<div align="center">
+  <img src="output.png" width="500" alt="K-Means Clustering Visualization">
+</div>
+
 ## Deskripsi Proyek
 Proyek ini merupakan bagian dari "Big Data Challenge 4: Classification Challenge" yang berfokus pada pembangunan model klasifikasi untuk memprediksi apakah penghasilan seseorang melebihi $50.000 per tahun atau tidak, berdasarkan data sensus. Proyek ini meliputi tahapan analisis data eksplorasi (EDA), pra-pemrosesan data, pelatihan model Machine Learning, dan evaluasi performa model.
 
